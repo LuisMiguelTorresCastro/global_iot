@@ -34,8 +34,9 @@
 
 ## 2. Parte 1: Diseño del Sistema (3 puntos):
 ### ○ Diseña el circuito eléctrico, indicando los componentes y sus conexiones.
+:https://app.cirkitdesigner.com/project/1b0ecb61-ac3b-4835-a6b8-98e8498eb6cb
 ### ○ Dibuja un diagrama lógico o de bloques que represente el flujo de datos.
-
+:https://www.figma.com/design/HdhG3S9CTpUR6gEjy6kMBT/Untitled?node-id=0-1&t=FIaCCqDPhiZYXqeZ-1
 ## 3. Parte 2: Implementación y Programación (4 puntos):
 ### ○ Escribe y documenta el código en Python o Arduino.
 ### ○ Implementa al menos una estructura de control (condicional, repetitiva o
