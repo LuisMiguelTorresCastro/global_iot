@@ -5,7 +5,7 @@
 ##  TOTAL DE PUNTOS: 100
 
 ##  OBJETIVO:
-####  El estudiante diseñará, desarrollará y documentará un sistema IoT funcional aplicado ####  a un entorno industrial, de oficina o escolar, integrando conceptos de electrónica, ####  programación embebida y diseño de comunicación IoT.
+###  El estudiante diseñará, desarrollará y documentará un sistema IoT funcional aplicado ###  a un entorno industrial, de oficina o escolar, integrando conceptos de electrónica, ###  programación embebida y diseño de comunicación IoT.
 
 ## INSTRUMENTO DE EVALUACIÓN:
 ### Proyecto práctico aplicado.
